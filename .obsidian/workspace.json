@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/PalindromeNumber.md",
+                "file": "GMM Bot/GMMBot初版參考資料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PalindromeNumber"
+              "title": "GMMBot初版參考資料"
             }
           }
         ],
@@ -243,9 +243,9 @@
   },
   "active": "d7fd14c5e4e583e4",
   "lastOpenFiles": [
-    "Clippings/把 Moltbot 接进 Microsoft Teams 的完整攻略：10 步配置与踩坑清单｜觉醒AI知识库.md",
     "leetcode/PalindromeNumber.md",
-    "GMM Bot/未命名.md",
+    "Clippings/把 Moltbot 接进 Microsoft Teams 的完整攻略：10 步配置与踩坑清单｜觉醒AI知识库.md",
+    "GMM Bot/GMMBot初版參考資料.md",
     "Clippings/幫你的Teams加上一隻對談機器人(Teams Chat Bot).md",
     "Clippings/git传输时使用的两种协议ssh和http的区别.md",
     "Clippings/DeepSeek本地部署全攻略：MacWindowsLinux三平台全覆盖，从此告别付费API.md",
