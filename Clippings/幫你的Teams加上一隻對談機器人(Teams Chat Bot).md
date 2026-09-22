@@ -9,7 +9,7 @@ description: "前幾天我們介紹過了 如何申請免費 的Teams，但你�
 tags:
   - "clippings"
 ---
-前幾天我們介紹過了 [如何申請免費](http://studyhost.blogspot.com/2018/07/teams.html) 的Teams，但你知道嗎? 免費的Teams 其實也可以擁有對談機器人喔。只需要三分鐘就可以搞定…
+  前幾天我們介紹過了 [如何申請免費](http://studyhost.blogspot.com/2018/07/teams.html) 的Teams，但你知道嗎? 免費的Teams 其實也可以擁有對談機器人喔。只需要三分鐘就可以搞定…
 
 ![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uUxB9F5FpUubm7nLk59bL_N8Ow1uKX51cZq7L77GqvPwhg8W7iKrKGYVoW9e3XBW4LZc0tzl_QztJVnVIVYMnVI6tNKWOTjjzNUDBw8ELt3h0ZIKBBF7bber7Vzae3WCrUJ_MpAEggrXlESlN1AWsW0Mj_DIk-6OrFKszCDkqzP84p90Fwsw=s0-d)
 
