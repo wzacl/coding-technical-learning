@@ -53,30 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GMM Bot/GMMBot初版參考資料.md",
+                "file": "Clippings/介紹 TWSE 官網 API 格式（JSON、CSV），理解 URL 結構 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GMMBot初版參考資料"
-            }
-          },
-          {
-            "id": "e7c39434ec7a0f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/LeetCode5_Longest_Palindromic_Substring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LeetCode5_Longest_Palindromic_Substring"
+              "title": "介紹 TWSE 官網 API 格式（JSON、CSV），理解 URL 結構 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -255,21 +241,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7c39434ec7a0f1f",
+  "active": "d7fd14c5e4e583e4",
   "lastOpenFiles": [
-    "GMM Bot/GMMBot初版參考資料.md",
+    "leetcode/LeetCode_2026-09-22_Review.md",
+    "Clippings/一定要了解！Windows 11 上最重要的 73 個鍵盤快捷、組合鍵彙整.md",
+    "Clippings/Win10 & Win11 快捷鍵整理｜辦公必備操作懶人包（快速鍵對照＋說明）.md",
+    "Clippings/一定要了解！Windows 11 上最重要的 73 個鍵盤快捷、組合鍵彙整 1.md",
+    "Clippings/幫你的Teams加上一隻對談機器人(Teams Chat Bot).md",
+    "Clippings/Day 24  公司內部開發AI機器人Microsoft Teams方案評估篇 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
+    "Clippings/MarkItDown 教學｜安裝、PDF 轉 Markdown 與 OCR 排錯.md",
+    "Clippings/MCP vs CLI：为什么大家会争这个问题？.md",
     "leetcode/LeetCode5_Longest_Palindromic_Substring.md",
+    "GMM Bot/GMMBot初版參考資料.md",
     "leetcode/Leetcode_9_PalindromeNumber.md",
     "leetcode/LeetCode_3_LongestSubstring_Without_Repeating_Characters.md",
     "Clippings/半导体制造过程的步骤、技术、流程图-CSDN博客.md",
     "Clippings/把 Moltbot 接进 Microsoft Teams 的完整攻略：10 步配置与踩坑清单｜觉醒AI知识库.md",
     "Clippings/資安入門 012 HTTP 協定完全指南 — 從零搞懂請求、回應與安全關鍵.md",
     "Clippings/NVIDIA PAIR中文部署完全指南：把家里电脑串成AI算力集群-CSDN博客.md",
-    "Clippings/幫你的Teams加上一隻對談機器人(Teams Chat Bot).md",
     "Clippings/git传输时使用的两种协议ssh和http的区别.md",
     "Clippings/DeepSeek本地部署全攻略：MacWindowsLinux三平台全覆盖，从此告别付费API.md",
     "Clippings/2025熱門Python GUI開發工具推薦：10款現代化框架特色比較.md",
-    "Clippings/Day 24  公司內部開發AI機器人Microsoft Teams方案評估篇 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
     "GMM Bot",
     "leetcode/LeetCode 4_Median_of_Two_Sorted_Arrays.md",
     "Clippings/2026 Mac mini M4 本地大模型完全指南：MLX vs Ollama 性能实测.md",
@@ -281,13 +273,7 @@
     "leetcode/AddTwoNumbersEx.png",
     "Clippings/介紹 TWSE 官網 API 格式（JSON、CSV），理解 URL 結構 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
     "leetcode",
-    "Excalidraw/Drawing 2026-09-03 16.18.57.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-02 16.50.02.excalidraw.md",
-    "Clippings/Day 29  上篇的http補充、418茶壺事件 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
     "Excalidraw/Libraries/architecture-diagram-components.excalidrawlib",
-    "Excalidraw/Drawing 2026-09-02 16.41.39.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-02 16.14.41.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-02 16.41.30.excalidraw.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
