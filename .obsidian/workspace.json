@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/投信ETF折議價整理.md",
+                "file": "量化交易/ETF價值計算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "投信ETF折議價整理"
+              "title": "ETF價值計算"
             }
           }
         ],
@@ -257,10 +257,12 @@
   },
   "active": "a8c0f5e6a656740a",
   "lastOpenFiles": [
-    "Clippings/介紹 TWSE 官網 API 格式（JSON、CSV），理解 URL 結構 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
-    "量化交易/投信ETF折議價整理.md",
-    "量化交易",
+    "量化交易/投信ETF折議價網站整理.md",
+    "量化交易/ETF價值計算.md",
+    "Clippings/lnkiaim3e-canvas Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.md",
     "leetcode/LeetCode_2026-09-22_Review.md",
+    "Clippings/介紹 TWSE 官網 API 格式（JSON、CSV），理解 URL 結構 - iT 邦幫忙一起幫忙解決難題，拯救 IT 人的一天.md",
+    "量化交易",
     "Clippings/一定要了解！Windows 11 上最重要的 73 個鍵盤快捷、組合鍵彙整.md",
     "Clippings/Win10 & Win11 快捷鍵整理｜辦公必備操作懶人包（快速鍵對照＋說明）.md",
     "Clippings/一定要了解！Windows 11 上最重要的 73 個鍵盤快捷、組合鍵彙整 1.md",
@@ -283,8 +285,6 @@
     "leetcode/LeetCode 4_Median_of_Two_Sorted_Arrays.md",
     "Clippings/2026 Mac mini M4 本地大模型完全指南：MLX vs Ollama 性能实测.md",
     "Clippings/NVIDIA PAIR 拆解：把家里闲置 PC 变成 Agent 推理集群，本地 AI 的分布式路由怎么落地-CSDN博.md",
-    "Clippings/HTML定義.md",
-    "Clippings/URL定義.md",
     "未命名.base",
     "leetcode/AddTwoNumbersEx.png",
     "leetcode",
